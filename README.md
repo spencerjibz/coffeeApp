@@ -32,9 +32,9 @@
   ```
   
 
-### Order illustration
+###  illustration
 
-1.**list Command**: <br> 
+1.**list command**: <br> 
   
  ```
                 COFFEE MENU
@@ -47,7 +47,7 @@
 
 
  ```
-2.** order Command**: <br>
+2.**order command**: <br>
  Order coffee  with this command. 
  .<br>
 ```
