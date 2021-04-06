@@ -73,4 +73,4 @@
 Thanks!
 
 ### License
-  [MIT](https://github.com/spencerjibz/coffeeApp/blob/master/LICENSE)
+  [MIT](https://github.com/spencerjibz/coffeeApp/blob/main/LICENSE)
